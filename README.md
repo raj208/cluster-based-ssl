@@ -1,2 +1,1 @@
-# cluster-based-ssl
-Pseudo-labeling framework using clustering 
+This project implements a semi-supervised learning (SSL) framework using clustering and pseudo-labeling. The core idea is to utilize a small amount of labeled data to form clusters, and assign pseudo-labels to the remaining unlabeled data based on proximity to cluster centroids.
